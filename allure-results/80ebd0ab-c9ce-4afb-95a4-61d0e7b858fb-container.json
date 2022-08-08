@@ -1,0 +1,1 @@
+{"uuid":"80ebd0ab-c9ce-4afb-95a4-61d0e7b858fb","name":"com.Framework.API.tests.TestPATCHPosts","children":["bf1424b3-8cb9-469e-a05e-20db0020b0ab"],"befores":[{"name":"init","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1659693488279,"stop":1659693489099}],"afters":[],"start":1659693488233,"stop":1659693492526}

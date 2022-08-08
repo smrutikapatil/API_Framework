@@ -1,0 +1,1 @@
+{"uuid":"03ea295e-0931-410e-aebc-b1d5c1d4746a","name":"com.Framework.API.tests.TestDELETEPosts","children":["c13234b8-05ad-42b4-b235-266b5ab408c1"],"befores":[{"name":"init","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1659693868059,"stop":1659693868906}],"afters":[],"start":1659693868017,"stop":1659693870905}
